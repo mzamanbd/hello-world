@@ -1,2 +1,3 @@
 # hello-world
-This is a short description
+This text has replaced short description.
+This text was added.
